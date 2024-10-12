@@ -1,0 +1,36 @@
+ <section id="text">
+        <h2 >Text Tags</h2>
+        <p>This is a paragraph.</p>
+        <h3>Subheading h3</h3>
+        <h4>Subheading h4</h4>
+        <h5>Subheading h5</h5>
+        <h6>Subheading h6</h6>
+        <p>nor</p>
+        <p><strong>Strong text</strong></p>
+        <p><b>bold text</b></p>
+        <p><em>Emphasized text</em></p>
+        <p><i>italic</i></p>
+        <p><abbr title="Hypertext Markup Language">HTML</abbr></p>
+        <address>123 Main St, Anytown, USA</address>
+        <p><bdo dir="rtl">Right to left text</bdo></p>
+        <p><blockquote>This is a blockquote.</blockquote></p>
+        <p><cite>This is a citation.</cite></p>
+        <p>This is an inline <q>quote</q>.</p>
+        <p><code>Code snippet</code></p>
+        <p><ins>Inserted text</ins></p>
+        <p><u>underline</u></p>
+        <p><del>Deleted text</del></p>
+        <p><dfn>Definition term</dfn></p>
+        <p><kbd>shift+ctrl+a</kbd></p>
+        <p><mark>Marked text</mark></p>
+        <p>lksdafj
+            sdlkafj
+        </p>
+        <p><pre>   Preformatted text
+            klasjf
+        </pre></p>
+        <p><samp>Sample output</samp></p>
+        <p><var>Variable text</var></p>
+        <p><br>Line break here.</p>
+        <hr>
+    </section>
